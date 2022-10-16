@@ -39,6 +39,8 @@ The main features of LPC2148 include the following.
 
 ![image](https://user-images.githubusercontent.com/36288975/193398005-6e1257a9-16ae-43f5-9f09-33bb21ed25b9.png)
 
+<br><br><br><br><br><br>
+
 ## Procedure:
 For creation of project on Kiel μ vision 5 Development environment (LPC21 XX/48/38)
 1.	Click on the menu Project — New µVision Project creates a new project. Select an empty folder and enter the project name, for example Project1. It is good practice to use a separate folder for each project.
