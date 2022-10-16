@@ -102,19 +102,19 @@ Step 7: After making necessary connections click on debug.
 
 Figure -09 Keywords Textbox
 
-Step 8: The selected components will appear in the devices list. Select the component and place it in the design sheet by left-click., post which select all the associated components as shown in the circuit diagram below 
-
-![image](https://user-images.githubusercontent.com/36288975/193398065-c12b4984-db8e-40cc-890d-221db1c35b0d.png)
-
-Example shows selection of push button. Select the components accordingly.
-
-Figure -10 Push Button Selection
+Step 8: The selected components will appear in the devices list. Select the component and place it in the design sheet by left-click., post which select all the associated components as shown in the circuit diagram below. Example shows selection of push button. Select the components accordingly.
 
 ![image](https://user-images.githubusercontent.com/36288975/193398071-76df0a57-7e76-4868-9769-c63d220482b8.png)
 
-Figure -11 Hex file for simulation 
+![image](https://user-images.githubusercontent.com/36288975/193398065-c12b4984-db8e-40cc-890d-221db1c35b0d.png)
+
+Figure -10 Push Button Selection
 
 Step 9: Select the hex file from the Kiel program folder and import the program in to the microcontroller as shown in figure 11 ,  debug and if no errors in connections are found, run the VSM simulation to view the output.
+
+![image](https://user-images.githubusercontent.com/36288975/193398071-76df0a57-7e76-4868-9769-c63d220482b8.png)
+
+Figure -11 Hex file for simulation
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
 
