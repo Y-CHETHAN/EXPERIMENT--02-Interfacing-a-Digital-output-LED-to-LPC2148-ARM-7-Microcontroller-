@@ -106,15 +106,17 @@ Step 9: The selected components will appear in the devices list. Select the comp
 
 ![image](https://user-images.githubusercontent.com/36288975/189275464-1074d010-f106-4615-9959-68ed1a271502.png)
 
+Figure -10 Circuit diagram of LED interface on port -0
+
 ![image](https://user-images.githubusercontent.com/36288975/193398065-c12b4984-db8e-40cc-890d-221db1c35b0d.png)
 
-Figure -10 Push Button Selection
+Figure -11 Push Button Selection
 
 Step 10: Select the hex file from the Kiel program folder and import the program in to the microcontroller as shown in figure 11 ,  debug and if no errors in connections are found, run the VSM simulation to view the output.
 
 ![image](https://user-images.githubusercontent.com/36288975/193398071-76df0a57-7e76-4868-9769-c63d220482b8.png)
 
-Figure -11 Hex file for simulation
+Figure -12 Hex file for simulation
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
