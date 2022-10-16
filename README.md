@@ -143,14 +143,14 @@ int main()
 }
 ```
 ## Output:
-### LED OFF
+### LED OFF:
 <img width="652" alt="image" src="https://user-images.githubusercontent.com/75234991/196021608-94432ebd-e3e6-4b2a-a02d-7786dd29dca3.png">
 
-### LED ON
+### LED ON:
 <img width="667" alt="image" src="https://user-images.githubusercontent.com/75234991/196021546-a03cc818-a033-480f-9d2f-91f45240371b.png">
 
-### Circuit Diagram
+### Circuit Diagram:
 <img width="1515" alt="Experiment 2" src="https://user-images.githubusercontent.com/75234991/196021697-e9e0e1af-1b75-456a-bf11-c089899864ff.png">
 
-## Result :
+## Result:
 Thus, Interfacing a digital output with ARM microcontroller is executed successfully.
