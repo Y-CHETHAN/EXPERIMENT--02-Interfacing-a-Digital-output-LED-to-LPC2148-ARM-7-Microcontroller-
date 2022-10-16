@@ -37,7 +37,7 @@ The main features of LPC2148 include the following.
 
 ![image](https://user-images.githubusercontent.com/36288975/193398005-6e1257a9-16ae-43f5-9f09-33bb21ed25b9.png)
 
-### Procedure:
+## Procedure:
 For creation of project on Kiel μ vision 5 Development environment (LPC21 XX/48/38)
 1.	Click on the menu Project — New µVision Project creates a new project. Select an empty folder and enter the project name, for example Project1. It is good practice to use a separate folder for each project.
 2.	Next, the dialog Select Device for Target opens.
@@ -113,7 +113,7 @@ Figure -11 Hex file for simulation
 Step 9: Select the hex file from the Kiel program folder and import the program in to the microcontroller as shown in figure 11 ,  debug and if no errors in connections are found, run the VSM simulation to view the output.
 
 
-### Kiel - Program:
+## Kiel - Program:
 ```
 #include <lpc214x.h>
 
@@ -142,6 +142,15 @@ int main()
     }
 }
 ```
-### Output:
+## Output:
+### LED OFF
+<img width="652" alt="image" src="https://user-images.githubusercontent.com/75234991/196021608-94432ebd-e3e6-4b2a-a02d-7786dd29dca3.png">
 
-### Result :
+### LED ON
+<img width="667" alt="image" src="https://user-images.githubusercontent.com/75234991/196021546-a03cc818-a033-480f-9d2f-91f45240371b.png">
+
+### Circuit Diagram
+<img width="1515" alt="Experiment 2" src="https://user-images.githubusercontent.com/75234991/196021697-e9e0e1af-1b75-456a-bf11-c089899864ff.png">
+
+## Result :
+Thus, Interfacing a digital output with ARM microcontroller is executed successfully.
