@@ -90,7 +90,7 @@ Step 6: Select the components from categories or type the part name in Keywords 
 
 Figure -07 Component Properties Selection
 
-Step 8: Select ARM microcontroller form the library – pick part 
+Step 8: Select ARM microcontroller from the library – pick part 
 
 ![image](https://user-images.githubusercontent.com/36288975/193398055-587ebd36-4b82-4eaf-837c-f94c3cf2d071.png)
   
