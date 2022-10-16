@@ -119,7 +119,7 @@ Step 9: Select the hex file from the Kiel program folder and import the program 
 <br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## Kiel - Program:
-```
+```c
 #include <lpc214x.h>
 
 void delay_ms(unsigned int count)
@@ -131,18 +131,17 @@ void delay_ms(unsigned int count)
   }
 }
 
-/* start the main program */
 int main() 
 {
-    PINSEL0 = 0x00000000;  //Configure the P1 Pins for GPIO;
-    IO0DIR = 0x000000ff; //Configure the P1 pins as OUTPUT;
+    PINSEL0 = 0x00000000;
+    IO0DIR = 0x000000ff;
 
   while(1)
     {
-       IO0SET = 0x0000001f;     // Make all the Port pins as high  
+       IO0SET = 0x0000001f;
          delay_ms(1000);
 
-       IO0CLR = 0x0000001f;     // Make all the Port pins as low  
+       IO0CLR = 0x0000001f;
          delay_ms(1000);
     }
 }
