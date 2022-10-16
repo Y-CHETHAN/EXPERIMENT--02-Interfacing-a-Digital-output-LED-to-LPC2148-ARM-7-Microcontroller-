@@ -116,7 +116,7 @@ Step 10: Select the hex file from the Kiel program folder and import the program
 
 Figure -11 Hex file for simulation
 
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## Kiel - Program:
 ```c
