@@ -104,7 +104,7 @@ Figure -09 Keywords Textbox
 
 Step 8: The selected components will appear in the devices list. Select the component and place it in the design sheet by left-click., post which select all the associated components as shown in the circuit diagram below. Example shows selection of push button. Select the components accordingly.
 
-![image](https://user-images.githubusercontent.com/36288975/193398071-76df0a57-7e76-4868-9769-c63d220482b8.png)
+![image](https://user-images.githubusercontent.com/36288975/189275464-1074d010-f106-4615-9959-68ed1a271502.png)
 
 ![image](https://user-images.githubusercontent.com/36288975/193398065-c12b4984-db8e-40cc-890d-221db1c35b0d.png)
 
