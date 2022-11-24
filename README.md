@@ -15,8 +15,6 @@ ARM7 processor is commonly used in embedded system applications. Also, it is a b
 LPC2148 Microcontroller<br>
 The LPC2148 microcontroller is designed by Philips (NXP Semiconductor) with several in-built features & peripherals. Due to these reasons, it will make more reliable as well as the efficient option for an application developer. LPC2148 is a 16-bit or 32-bit microcontroller based on ARM7 family.
 
-<br><br>
-
 Features of LPC2148<br>
 The main features of LPC2148 include the following.
 * The LPC2148 is a 16 bit or 32 bit ARM7 family based microcontroller and available in a small LQFP64 package.
@@ -38,8 +36,6 @@ The main features of LPC2148 include the following.
 *	For extra power optimization, there are individual enable or disable of peripheral functions and peripheral CLK scaling.
 
 ![image](https://user-images.githubusercontent.com/36288975/193398005-6e1257a9-16ae-43f5-9f09-33bb21ed25b9.png)
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## Procedure:
 For creation of project on Kiel μ vision 5 Development environment (LPC21 XX/48/38)
@@ -118,8 +114,6 @@ Step 10: Select the hex file from the Kiel program folder and import the program
 
 Figure -12 Hex file for simulation
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
 ## Kiel - Program:
 ```c
 #include <lpc214x.h>
@@ -148,7 +142,6 @@ int main()
     }
 }
 ```
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## Output:
 ### LED OFF:
